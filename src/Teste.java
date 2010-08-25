@@ -6,4 +6,5 @@ public class Teste {
 	
 	// editando do projeto teste
 	// nova linha do projeto teste
+	// terceira linha
 }
